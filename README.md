@@ -10,4 +10,5 @@ Différentes ressources utilisés fréquemment dans les challenges/compétitions
 
 ### Sommaire :
 #### comp_2_list : Exemple de comparaison de deux listes
+#### compt_elt_list : Exemple de la fonction count() pour compter le nombre d'occurence d'un element dans une liste
 ***
