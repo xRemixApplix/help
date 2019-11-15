@@ -18,4 +18,5 @@ Différentes ressources utilisés fréquemment dans les challenges/compétitions
 #### sum_digit : Exemple effectuant la somme des digits donnés (somme qui se réinitialise si on croise un 0)
 #### morse : Exemple tranformant un numero de telephone en morse + Gestion des erreurs
 #### sum_bin_like_int : Exemple de l'addition de deux transformé en binaire comme s'il etait des nombres entiers
+#### diamond : Exemple permettant de dessiner un diamond dimension n*2
 ***
