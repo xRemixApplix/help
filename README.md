@@ -16,4 +16,5 @@ Différentes ressources utilisés fréquemment dans les challenges/compétitions
 #### invert_case : Exemple permettant d'inverser la case d'une chaine de caractères
 #### somme_num_in_string : Exemple permettant de faire le produit de la somme des digits d'une suite de nombre sous forme de chaine de caractères
 #### sum_digit : Exemple effectuant la somme des digits donnés (somme qui se réinitialise si on croise un 0)
+#### morse : Exemple tranformant un numero de telephone en morse + Gestion des erreurs
 ***
