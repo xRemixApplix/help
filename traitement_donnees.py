@@ -12,13 +12,7 @@ def miroir(elt, typeN):
             elt     : Element a inverser.
             typeN   : Type de l'element.
     """
-    # Initialisation d'une liste vide
-    list = []
-    # Parcours de la chaine de caractere
-    for char in str(elt):
-        # On met chaque caractère de la chaine dans une liste
-        list.append(char)
-    # Inversion de la liste
-    list.reverse()
     # On retourne l'element dans le type demande en parametre
-    return typeN("".join(list))
+    return typeN(str(elt)[::-1])
+
+print(miroir(34567,int))
