@@ -20,4 +20,5 @@ Différentes ressources utilisés fréquemment dans les challenges/compétitions
 #### sum_bin_like_int : Exemple de l'addition de deux transformé en binaire comme s'il etait des nombres entiers
 #### diamond : Exemple permettant de dessiner un diamond dimension n*2
 #### inverse_word_varchar : Exemple permettant d'afficher à l'envers les mots d'une phrase en gardant l'ordre des mots
+#### compt_pers_bus_ter : Exemple permettant de savoir combien de personne sont dans le bus arrivé au terminus
 ***
